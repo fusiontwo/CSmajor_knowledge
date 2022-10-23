@@ -1,0 +1,5 @@
+![데이터통신 Ch2 Protocol Architecture, TCP-IP and Internet-Based Applications(1)](https://user-images.githubusercontent.com/101881124/197375209-6c75a2e2-7dbc-4251-bd76-dde0ccef6b0f.jpg)
+![데이터통신 Ch2 Protocol Architecture, TCP-IP and Internet-Based Applications(2)](https://user-images.githubusercontent.com/101881124/197375213-8c7e3af3-a1d2-418b-bb94-84ee6e6030fc.jpg)
+![데이터통신 Ch2 Protocol Architecture, TCP-IP and Internet-Based Applications(3)](https://user-images.githubusercontent.com/101881124/197375216-b1488dd7-09ef-4502-8b27-128f8d36d62a.jpg)
+![데이터통신 Ch2 Protocol Architecture, TCP-IP and Internet-Based Applications(4)](https://user-images.githubusercontent.com/101881124/197375222-e6801467-afce-455f-a63f-f4be6dcc47bc.jpg)
+![데이터통신 Ch2 Protocol Architecture, TCP-IP and Internet-Based Applications(5)](https://user-images.githubusercontent.com/101881124/197375228-027a6ba4-efea-42fd-8661-7270ec39f804.jpg)
