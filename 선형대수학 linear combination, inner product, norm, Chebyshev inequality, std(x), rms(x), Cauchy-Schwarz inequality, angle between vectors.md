@@ -1,0 +1,3 @@
+![선형대수학 linear combination, inner product, norm, Chebyshev inequality, std(x), rms(x), Cauchy-Schwarz inequality, angle between vectors(1)](https://user-images.githubusercontent.com/101881124/198838254-519dd254-244e-41d0-8500-e2dd8bb30d29.jpg)
+![선형대수학 linear combination, inner product, norm, Chebyshev inequality, std(x), rms(x), Cauchy-Schwarz inequality, angle between vectors(2)](https://user-images.githubusercontent.com/101881124/198838263-07668486-69fd-4810-b9e6-66cbcc7b1668.jpg)
+![선형대수학 linear combination, inner product, norm, Chebyshev inequality, std(x), rms(x), Cauchy-Schwarz inequality, angle between vectors(3)](https://user-images.githubusercontent.com/101881124/198838266-867d1124-266a-470a-b088-52ee5e296412.jpg)
